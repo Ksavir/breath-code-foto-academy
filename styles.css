@@ -1,0 +1,61 @@
+
+#title {
+    background-color:white;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    position: sticky;
+    width: 100%;
+   }
+
+#content { 
+    display: grid;
+    width:50%;
+    margin: 0 auto;
+}
+
+#page{
+    background-color: rgb(249, 175, 209)
+}
+
+
+
+#pic-title {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    margin-left: 2.5%;
+    margin-right: 2.5%;    
+}
+
+
+img {
+    min-width: 100%
+}
+
+#publication {
+    margin-bottom: 10%;
+    background-color:rgb(196, 224, 255)
+}
+
+#publication2 {
+    margin-bottom: 10%;
+    background-color:rgb(196, 224, 255)
+}
+
+#publication3 {
+    margin-bottom: 10%;
+    background-color:rgb(196, 224, 255)
+}
+
+#caption, #caption2 , #caption3 { 
+    margin-left: 2.5%;
+    margin-bottom: 5%;
+    font-size: 20px;
+}
+
+
+
+#user, #date {
+    font-size: 20px;
+}
